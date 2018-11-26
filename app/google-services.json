@@ -1,0 +1,64 @@
+{
+  "project_info": {
+    "project_number": "549218245606",
+    "firebase_url": "https://whatsapp-stickers-4332a.firebaseio.com",
+    "project_id": "whatsapp-stickers-4332a",
+    "storage_bucket": "whatsapp-stickers-4332a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549218245606:android:86e9ace7f018d837",
+        "android_client_info": {
+          "package_name": "com.malayalam.stickers.forwhatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "549218245606-hhjelt61opolsqh3cp04duk10jmceqlf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.malayalam.stickers.forwhatsapp",
+            "certificate_hash": "12d2e7fdc881c03b4d6371b77011c8af6086d3c3"
+          }
+        },
+        {
+          "client_id": "549218245606-9sip1f1q1ier4fk7m9hobcvdek5lhae4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.malayalam.stickers.forwhatsapp",
+            "certificate_hash": "ba28741da42e20cbe4a5a62feac437ce49c5e327"
+          }
+        },
+        {
+          "client_id": "549218245606-gnss95bm2th7q70a4r0s9ubt2c9ppbf7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOMO25Jh_K-zyu0Y_lJTY2mU_PckSwY7w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "549218245606-gnss95bm2th7q70a4r0s9ubt2c9ppbf7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      },
+      "admob_app_id": "ca-app-pub-9501682645314572~9232361804"
+    }
+  ],
+  "configuration_version": "1"
+}
